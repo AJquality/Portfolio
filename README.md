@@ -54,7 +54,7 @@ My Tester's portfolio
 <h4 align=center><a href="https://drive.google.com/drive/folders/1QRQpYY2d2l4VZlr6YucsTJInYSqQ_qKh?usp=sharing">Project Specification Issues</a></h4>
 
 </br><p>Quality Assurance Engineer course from GoIT platform finished with final task of testing the web app made by students from their Developer course.</br>
-Our main goals were to write test cases based on requirements specification and use those test cases to find and report bugs.</p>
+My main goals were to write test cases based on requirements specification and use those test cases to find and report bugs.</p>
 
 <p>Application made by students from Developer course is used to manage financies over the year with option to add income from any source as well as listing our expenses.</p>
 
