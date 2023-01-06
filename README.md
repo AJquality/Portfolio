@@ -28,7 +28,7 @@ My Tester's portfolio
 <ul>
 <li> Quality Assurance Engineer from GoIT platform (3 months)
 <li> Software Testing Masterclass (2023) - From Novice to Expert by Ozan Ilhan - UDEMY platform
-<li> HTML + CSS from GoIT platform (7 days marathin)</li>
+<li> HTML + CSS from GoIT platform (7 days marathon)</li>
 </ul>
 
 <h2> Groups on Facebook</h2>
