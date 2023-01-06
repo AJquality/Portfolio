@@ -49,7 +49,9 @@ My Tester's portfolio
 <h3 align=center>Quality Assurance Engineer course project</h3>
 </center>
 
-<h4 align=center><a href="https://drive.google.com/drive/folders/1SqF_k2vcaen8KpbWI-CBYSyexHUCYnLC?usp=sharing">Project Link</a></h4>
+<h4 align=center><a href="https://drive.google.com/drive/folders/1SqF_k2vcaen8KpbWI-CBYSyexHUCYnLC?usp=sharing">Project Test Suites</a></h4>
+<h4 align=center><a href="https://drive.google.com/drive/folders/1V2zxp-mgl8_RdurL-ini784zy2wsCyDJ?usp=sharing">Project Bug Reports</a></h4>
+<h4 align=center><a href="https://drive.google.com/drive/folders/1QRQpYY2d2l4VZlr6YucsTJInYSqQ_qKh?usp=sharing">Project Specification Issues</a></h4>
 
 </br><p>Quality Assurance Engineer course from GoIT platform finished with final task of testing the web app made by students from their Developer course.</br>
 Our main goals were to write test cases based on requirements specification and use those test cases to find and report bugs.</p>
