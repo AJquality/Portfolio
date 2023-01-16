@@ -54,8 +54,9 @@ My Tester's portfolio
 <h4 align=center><a href="https://drive.google.com/drive/folders/1vUl59VL_VHbNU_HCCEIcUTtmBgi5hmK0?usp=sharing">Project Bug Reports</a></h4>
 <h4 align=center><a href="https://drive.google.com/drive/folders/1kCz-9JvkGFn4_XERllqda45VLarZYDbU?usp=sharing">Project Specification Issues</a></h4>
 
-</br><p>Quality Assurance Engineer course from GoIT platform finished with final task of testing the web app made by students from their Developer course.</br>
-My main goals were to write test cases based on requirements specification and use those test cases to find and report bugs.</br> Test executed on the application were <b>User Acceptance</b> tests.</p>
 
-<p>Application made by students from Developer course is used to manage financies over the year with option to add income from any source as well as listing our expenses.</p>
+<p>
+Quality Assurance Engineer course from GoIT platform finished with final task of testing the web app made by students from their Developer course. My main goals were to write test cases based on requirements specification and use those test cases to find and report bugs. 
+Application made by students from Developer course is used to manage financies over the year with option to add income from any source as well as listing our expenses.</p>
+<p>Tests executed on the application were <b>User Acceptance</b> tests.</p>
 
