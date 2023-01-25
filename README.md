@@ -46,7 +46,7 @@ My Tester's portfolio
 
 <h2>My Projects</h2>
 
-<h3 align=center><a href="https://drive.google.com/drive/folders/1s_zxsg0Ul49Kpwc6toczuNgtznIpxAq0?usp=sharing">Quality Assurance Engineer Course Project</a></h3>
+<h3 align=center><a href="https://drive.google.com/drive/folders/1s_zxsg0Ul49Kpwc6toczuNgtznIpxAq0?usp=sharing" target="_blank">Quality Assurance Engineer Course Project</a></h3>
 
 
 
